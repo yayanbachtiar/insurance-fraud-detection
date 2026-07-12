@@ -48,6 +48,14 @@ claims-fraud-poc/
 └── requirements.txt
 ```
 
+## Screenshot Dashboard
+
+![Dashboard Full](screenshots/dashboard-full.png)
+*Tampilan utama — metrics row, distribusi klaim per kategori, top provider Z-score, IQR boxplot, dan daftar klaim ter-flag.*
+
+![Validasi Rule](screenshots/validation-section.png)
+*Section validasi — perbandingan rule detection terhadap ground truth sintetis (precision & recall).*
+
 ## Next steps (kalau mau lanjut level up)
 
 - Ganti rule-based dengan ML (Isolation Forest / DBSCAN) dan bandingkan hasilnya
